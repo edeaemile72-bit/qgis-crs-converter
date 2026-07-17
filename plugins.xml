@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugins>
+  <pyqgis_plugin name="CRS Converter" version="3.0">
+    <description>Conversion de coordonnées entre systèmes de référence (point unique, CSV, Excel multi-feuilles), avec export DMS.</description>
+    <about>Plugin QGIS de conversion de coordonnées : point unique, fichier CSV, classeur Excel multi-feuilles, avec support du format degrés-minutes-secondes (DMS) lorsque le CRS cible est géographique.</about>
+    <version>3.0</version>
+    <qgis_minimum_version>3.16</qgis_minimum_version>
+    <homepage>https://github.com/edeaemile72-bit/qgis-crs-converter</homepage>
+    <file_name>crs_converter.zip</file_name>
+    <icon>icon.png</icon>
+    <author_name>Dr EDEA O. Emile</author_name>
+    <download_url>https://raw.githubusercontent.com/edeaemile72-bit/qgis-crs-converter/main/crs_converter.zip</download_url>
+    <uploaded_by>edeaemile72-bit</uploaded_by>
+    <create_date>2026-07-17</create_date>
+    <update_date>2026-07-17</update_date>
+    <experimental>True</experimental>
+    <deprecated>False</deprecated>
+    <tracker>https://github.com/edeaemile72-bit/qgis-crs-converter/issues</tracker>
+    <repository>https://raw.githubusercontent.com/edeaemile72-bit/qgis-crs-converter/main/plugins.xml</repository>
+  </pyqgis_plugin>
+</plugins>
