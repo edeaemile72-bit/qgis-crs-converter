@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <plugins>
-  <pyqgis_plugin name="CRS Converter" version="3.1">
-    <description>Conversion de coordonnées entre systèmes de référence (point unique, CSV, Excel multi-feuilles avec CRS source par feuille), avec export DMS.</description>
-    <about>Plugin QGIS de conversion de coordonnées : point unique, fichier CSV, classeur Excel multi-feuilles. Depuis la version 3.1, le CRS source peut être défini individuellement pour chaque feuille du classeur Excel.</about>
-    <version>3.1</version>
+  <pyqgis_plugin name="CRS Converter" version="3.4">
+    <description>Conversion de coordonnées entre systèmes de référence (point unique, CSV, Excel multi-feuilles avec CRS par feuille, couche vectorielle chargée), avec export DMS, journal d'erreurs et bouton d'aide.</description>
+    <about>Plugin QGIS de conversion de coordonnées : point unique, fichier CSV, classeur Excel multi-feuilles (CRS source par feuille depuis la v3.1), couche vectorielle déjà chargée dans QGIS (depuis la v3.2), format DMS, journal d'erreurs détaillé (.log) depuis la v3.3. Depuis la version 3.4, un bouton Aide contextuel est disponible dans l'interface.</about>
+    <version>3.4</version>
     <qgis_minimum_version>3.16</qgis_minimum_version>
     <homepage>https://github.com/edeaemile72-bit/qgis-crs-converter</homepage>
     <file_name>crs_converter.zip</file_name>
