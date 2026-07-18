@@ -6,10 +6,10 @@
     <version>3.4</version>
     <qgis_minimum_version>3.16</qgis_minimum_version>
     <homepage>https://github.com/edeaemile72-bit/qgis-crs-converter</homepage>
-    <file_name>crs_converter_v3.4.zip</file_name>
+    <file_name>crs_converter.zip</file_name>
     <icon>icon.png</icon>
     <author_name>Dr EDEA O. Emile</author_name>
-    <download_url>https://raw.githubusercontent.com/edeaemile72-bit/qgis-crs-converter/main/crs_converter_v3.4.zip</download_url>
+    <download_url>https://raw.githubusercontent.com/edeaemile72-bit/qgis-crs-converter/main/crs_converter.zip</download_url>
     <uploaded_by>edeaemile72-bit</uploaded_by>
     <create_date>2026-07-17</create_date>
     <update_date>2026-07-18</update_date>
