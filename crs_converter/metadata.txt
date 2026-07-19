@@ -1,0 +1,20 @@
+[general]
+name=CRS Converter
+qgisMinimumVersion=3.16
+description=Convert coordinates between reference systems: single point, CSV, and multi-sheet Excel files with per-sheet CRS, plus reprojection of already-loaded vector layers.
+version=3.4
+author=Dr EDEA O. Emile
+email=edeaemile72@gmail.com
+
+about=CRS Converter is a QGIS plugin for converting coordinates between coordinate reference systems (CRS). It supports manual entry of a single point, import/export of CSV files, and import/export of multi-sheet Excel (.xlsx) workbooks with automatic detection of X/Y columns and an individual source CRS per sheet. It can also reproject a vector layer already loaded in the current QGIS project and add the result to the project as a new layer. When the target CRS is geographic, coordinates are also displayed and exported in degrees-minutes-seconds (DMS) format. A detailed error log (.log) can be generated for CSV and Excel conversions, and a contextual Help button is available on every tab.
+
+tracker=https://github.com/edeaemile72-bit/qgis-crs-converter/issues
+repository=https://github.com/edeaemile72-bit/qgis-crs-converter
+category=Vector
+icon=icon.png
+experimental=False
+deprecated=False
+
+tags=csv,excel,xlsx,crs,projection,coordonnees,coordinates,conversion,epsg
+
+homepage=https://github.com/edeaemile72-bit/qgis-crs-converter
